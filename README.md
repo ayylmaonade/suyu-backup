@@ -2,6 +2,8 @@
 SPDX-FileCopyrightText: 2018 yuzu Emulator Project
 SPDX-License-Identifier: GPL-2.0-or-later
 -->
+<h5>This is a backup of the Yuzu source code. This allows anybody to build the Yuzu Nintendo Switch Emulator from source. Binaries will be provided on gitlab. This will be a mirror.</h5>
+
 <h1>moved to <a href="https://gitlab.com/suyu2/suyu">https://gitlab.com/suyu2/suyu</a></h1>
 
 To prevent microsoft from taking it down
