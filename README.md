@@ -83,4 +83,4 @@ This project is completely free and open source, this project is made possible b
 
 ## License
 
-yuzu vanced is licensed under the MIT license. Refer to the [LICENSE.txt](https://github.com/yuzu-emu/yuzu/blob/master/LICENSE.txt) file.
+yuzu vanced is licensed under the MIT license. Refer to the [LICENSE.md](https://github.com/ayylmaonade/suyu-backup/blob/master/LICENSE) file.
